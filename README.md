@@ -13,13 +13,7 @@ OpenCore version 0.7.9
 
 BIOS version 1.3.7
 
-适用系统
-
-macOS Catalina
-
-macOS Big Sur
-
-macOS Monterey
+适用最新版本系统
 
 热补丁来自@宪武 整理的：
 
