@@ -8,13 +8,12 @@
 图形卡 Intel HD Graphics 630 2048 MB
 
 ThinkPad T470P OpenCore EFI 
-
-OpenCore version 0.7.9
-
+OpenCore version 0.8.0
 BIOS version 1.3.7
-
-适用最新版本系统
-
+适用系统
+macOS Catalina
+macOS Big Sur
+macOS Monterey
 热补丁来自@宪武 整理的：
 
 P-little：https://github.com/daliansky/P-little ，
